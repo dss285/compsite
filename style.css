@@ -1,6 +1,7 @@
 body {
     color: rgb(255, 196, 0);
     background-color:rgb(44, 44, 44);
+    font-family:Arial, Helvetica, sans-serif;
 }
 .comp-skill-calc {
     display: flex;
@@ -16,6 +17,8 @@ body {
     margin-right: auto;
     background-color:rgb(44, 44, 44);
     color: rgb(255, 196, 0);
+    margin-top:1em;
+    margin-bottom:1em;
 }
 
 .comp-skill-calc .prestigeSliders, .comp-skill-calc .xpSliders {
@@ -28,4 +31,6 @@ body {
 .comp-skill-calc button {
     background-color:rgb(44, 44, 44);
     color: rgb(255, 196, 0);
+    font-size:large;
+    border-radius: 1em;
 }
