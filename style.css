@@ -1,3 +1,31 @@
-input {
+body {
+    color: rgb(255, 196, 0);
+    background-color:rgb(44, 44, 44);
+}
+.comp-skill-calc {
+    display: flex;
+    flex-flow:column nowrap;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.comp-skill-calc input {
     display: block;
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(44, 44, 44);
+    color: rgb(255, 196, 0);
+}
+
+.comp-skill-calc .prestigeSliders, .comp-skill-calc .xpSliders {
+    margin:1em;
+    border:0.2em double rgba(0,0,0);
+    border-radius: 1em;
+    padding:1em;
+    flex:1;
+}
+.comp-skill-calc button {
+    background-color:rgb(44, 44, 44);
+    color: rgb(255, 196, 0);
 }

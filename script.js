@@ -24,7 +24,8 @@ var initialize = (xpData) => {
                 skillSelect.appendChild(op)
             }
         }
-        
+        var prestigeSliders = document.createElement('div')
+        prestigeSliders.classList.add("prestigeSliders")
         var prestigeLabel = document.createElement('p')
         prestigeLabel.innerHTML = "Prestiges current/goal:"
         var prestigeSliderCurrent = document.createElement('input');
@@ -51,7 +52,8 @@ var initialize = (xpData) => {
         })
         
         
-        
+        var xpSliders = document.createElement('div')
+        xpSliders.classList.add("xpSliders")
         var xpLabel = document.createElement('p')
         xpLabel.innerHTML = "XP current/goal:"
         var xpSliderCurrent = document.createElement('input');
@@ -66,6 +68,7 @@ var initialize = (xpData) => {
             console.log(xpSliderCurrent.value)
             xpOutputCurrent.value = xpSliderCurrent.value;
         })
+        
         var xpSliderGoal = document.createElement('input');
         xpSliderGoal.type = "range";
         xpSliderGoal.min = 0;
@@ -80,10 +83,8 @@ var initialize = (xpData) => {
         var calculate = () => {
             var ele = document.createElement("div")
             var skill = skillSelect.value
-            console.log("asd1")
             var currXP = rawxp(prestigeOutputCurrent.value, xpOutputCurrent.value)
             var goalXP = rawxp(prestigeOutputGoal.value, xpOutputGoal.value)
-            console.log("asd2")
             for(var xpitem in xpData[skill]) {
                 var xpPerItem = xpData[skill][xpitem]
                 var liEle = document.createElement("li")
@@ -101,20 +102,25 @@ var initialize = (xpData) => {
         calculateBtn.addEventListener("click", () => {
             calculations.prepend(calculate())
         })
+        prestigeSliders.appendChild(prestigeLabel)
+        prestigeSliders.appendChild(prestigeSliderCurrent)
+        prestigeSliders.appendChild(prestigeOutputCurrent)
+        prestigeSliders.appendChild(prestigeSliderGoal)
+        prestigeSliders.appendChild(prestigeOutputGoal)
+
+        xpSliders.appendChild(xpLabel)
+        xpSliders.appendChild(xpSliderCurrent)
+        xpSliders.appendChild(xpOutputCurrent)
+        xpSliders.appendChild(xpSliderGoal)
+        xpSliders.appendChild(xpOutputGoal)
+
 
         
         x.appendChild(skillSelect)
-        x.appendChild(prestigeLabel)
-        x.appendChild(prestigeSliderCurrent)
-        x.appendChild(prestigeOutputCurrent)
-        x.appendChild(prestigeSliderGoal)
-        x.appendChild(prestigeOutputGoal)
-        x.appendChild(xpLabel)
-        x.appendChild(xpSliderCurrent)
-        x.appendChild(xpOutputCurrent)
-        x.appendChild(xpSliderGoal)
-        x.appendChild(xpOutputGoal)
+
         
+        x.appendChild(prestigeSliders)
+        x.appendChild(xpSliders)
         x.appendChild(calculateBtn)
         x.appendChild(calculations)
     }
