@@ -120,6 +120,6 @@ var initialize = (xpData) => {
     }
 
 }
-loadXPData("https://dss285.github.io/compsite/script.js").then((data) => {
+loadXPData("https://dss285.github.io/compsite/new_data.json").then((data) => {
     initialize(data)
 })
