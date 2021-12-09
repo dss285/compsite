@@ -120,6 +120,6 @@ var initialize = (xpData) => {
     }
 
 }
-loadXPData("/new_data.json").then((data) => {
+loadXPData("new_data.json").then((data) => {
     initialize(data)
 })
