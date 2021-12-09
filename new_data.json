@@ -1,0 +1,200 @@
+{
+    "fishing": {
+        "Monkfish": 9120,
+        "Rocktail": 29260,
+        "Shark": 8360,
+        "Cavefish": 22800,
+        "XP Lamp": 326876
+    },
+    "hunter": {
+        "Grey Chimchompa": 15086,
+        "Red Chimchompa": 20140,
+        "Grenwall": 83600,
+        "Black Warlock (Barehanded)": 49000,
+        "Pawya": 30400,
+        "Draconic Jadinko": 42104,
+        "Regular Jadinko": 15200,
+        "XP Lamp": 326876
+    },
+    "smithing": {
+        "Gold Bar": 1710,
+        "Steel Platebody": 14250,
+        "Gold Bar (goldsmith gauntlets)": 4271,
+        "Steel Bar": 1330,
+        "Rune Platebody": 28500,
+        "Rune Bar": 3800,
+        "XP Lamp": 326876
+    },
+    "runecrafting": {
+        "ZMI": 2704,
+        "Blood": 1596,
+        "Death": 1520,
+        "XP Lamp": 326876
+    },
+    "construction": {
+        "Mahogany Plank": 10640,
+        "Teak Plank": 6840,
+        "XP Lamp": 326876
+    },
+    "agility": {
+        "Gnome Course": 6574,
+        "Wilderness Course": 42142,
+        "Barbarian Advanced Course": 57282,
+        "Barbarian Course": 13223,
+        "Gnome Advanced Course": 55100,
+        "Black Warlock (Barehanded)": 9500,
+        "XP Lamp": 326876
+    },
+    "prayer": {
+        "Ourg Bones (Ecto and morytania legs)": 46816,
+        "Frost Dragon Bury(Prayer Cape)": 27360,
+        "Infernal Ashes(Gilded altar)": 16625,
+        "Frost dragon Bones (Ecto and morytania legs)": 60192,
+        "Dagannoth Bones(Gilded altar)": 33212,
+        "Dragon Bones(Gilded altar)": 19152,
+        "Dagannoth Bones (Ecto and morytania legs)": 41800,
+        "Frost Dragon Bones(Gilded altar)": 47880,
+        "XP Lamp": 326876
+    },
+    "fletching": {
+        "Rune Arrow (w/ Headless Arrow XP)": 1125,
+        "Broad Arrow": 760,
+        "Dragon Arrow (w/ Headless Arrow XP)": 1314,
+        "Yew Longbow (u)": 5700,
+        "Dragon Arrow": 1238,
+        "Dragonstone Bolt": 623,
+        "Rune Arrow": 1049,
+        "Broad Arrow (w/ Headless Arrow XP)": 836,
+        "Sagaie": 3040,
+        "Magic Longbow (u)": 6954,
+        "Diamond Bolt": 532,
+        "Onyx Bolt": 714,
+        "XP Lamp": 326876
+    },
+    "woodcutting": {
+        "Teak": 4660,
+        "Yew": 13300,
+        "Magic": 19000,
+        "Mahogany": 9500,
+        "Maple": 7600,
+        "Willow": 5130,
+        "Jadinko Root": 3070,
+        "Ivy": 25270,
+        "XP Lamp": 326876
+    },
+    "thieving": {
+        "Bakers Stall": 608,
+        "Fish Stall": 3192,
+        "Silk Stall": 1824,
+        "Fur Stall": 2736,
+        "Master Farmer": 653,
+        "Silver Stall": 4104,
+        "Tea Stall": 1216,
+        "Gem Stall": 7980,
+        "Spice Stall": 6156,
+        "XP Lamp": 326876
+    },
+    "firemaking": {
+        "Magic (Gloves + Ring)": 30164,
+        "Teak": 9120,
+        "Yew": 19152,
+        "Mahogany": 13680,
+        "Yew (Gloves + Ring)": 20109,
+        "Magic": 28728,
+        "Curly root": 28782,
+        "Maple": 11932,
+        "Willow": 8550,
+        "Test": 5000,
+        "Curly root (Gloves + Ring)": 30221,
+        "XP Lamp": 326876
+    },
+    "mining": {
+        "Gem Rocks": 4940,
+        "Iron Ore": 2660,
+        "Red Sandstone": 5320,
+        "Gold Ore": 4560,
+        "Runite Ore": 9500,
+        "Gem Rocks (Karamja Gloves)": 9880,
+        "Coal": 3800,
+        "Adamantite Ore": 7220,
+        "Mithril Ore": 6080,
+        "XP Lamp": 326876
+    },
+    "cooking": {
+        "Monkfish": 11400,
+        "Rocktail": 17100,
+        "Shark": 15960,
+        "Cavefish": 16264,
+        "XP Lamp": 326876
+    },
+    "crafting": {
+        "Royal D'Hide": 7144,
+        "Dragonstone": 10450,
+        "Red D'Hide": 5928,
+        "Black D'Hide": 6536,
+        "Diamond": 8170,
+        "Blue D'Hide": 5320,
+        "Sapphire": 3800,
+        "Glassblown Flask": 7600,
+        "Green D'Hide": 4712,
+        "Onyx": 12730,
+        "Emerald": 5092,
+        "Ruby": 6460,
+        "XP Lamp": 326876
+    },
+    "herblore": {
+        "Prayer Renewal": 14440,
+        "Extreme Strength": 17480,
+        "Extreme Defence": 18240,
+        "Extreme Magic": 19000,
+        "Extreme Attack": 16720,
+        "Extreme Ranging": 19760,
+        "Overload w/ extremes": 167200,
+        "Overload": 76000,
+        "XP Lamp": 326876
+    },
+    "summoning": {
+        "Iron Titan": 31737,
+        "Geyser Titan": 59523,
+        "Lava Titan": 55510,
+        "Pack Yack": 32102,
+        "Steel Titan": 33075,
+        "Fire Titan": 52835,
+        "Rune Minotaur": 57516,
+        "XP Lamp": 326876
+    },
+    "farming": {
+        "Papaya Seed": 472598,
+        "Fellstalk": 23985,
+        "Torstol": 17062,
+        "Yew Seed": 543468,
+        "Magic Seed": 1057448,
+        "Lantadyme": 11514,
+        "Palm Seed": 779798,
+        "XP Lamp": 326876
+    },
+    "attack": {
+        "XP Lamp": 326876
+    },
+    "defence": {
+        "XP Lamp": 326876
+    },
+    "strength": {
+        "XP Lamp": 326876
+    },
+    "constitution": {
+        "XP Lamp": 326876
+    },
+    "ranged": {
+        "XP Lamp": 326876
+    },
+    "magic": {
+        "XP Lamp": 326876
+    },
+    "slayer": {
+        "XP Lamp": 326876
+    },
+    "dungeoneering": {
+        "XP Lamp": 326876
+    }
+}

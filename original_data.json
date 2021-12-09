@@ -1,0 +1,742 @@
+[
+	{
+		"skill_name" : "fishing",
+		"name" : "Monkfish",
+		"xp_amount" : 9120
+	},
+	{
+		"skill_name" : "fishing",
+		"name" : "Rocktail",
+		"xp_amount" : 29260
+	},
+	{
+		"skill_name" : "fishing",
+		"name" : "Shark",
+		"xp_amount" : 8360
+	},
+	{
+		"skill_name" : "fishing",
+		"name" : "Cavefish",
+		"xp_amount" : 22800
+	},
+	{
+		"skill_name" : "hunter",
+		"name" : "Grey Chimchompa",
+		"xp_amount" : 15086
+	},
+	{
+		"skill_name" : "hunter",
+		"name" : "Red Chimchompa",
+		"xp_amount" : 20140
+	},
+	{
+		"skill_name" : "hunter",
+		"name" : "Grenwall",
+		"xp_amount" : 83600
+	},
+	{
+		"skill_name" : "smithing",
+		"name" : "Gold Bar",
+		"xp_amount" : 1710
+	},
+	{
+		"skill_name" : "smithing",
+		"name" : "Steel Platebody",
+		"xp_amount" : 14250
+	},
+	{
+		"skill_name" : "smithing",
+		"name" : "Gold Bar (goldsmith gauntlets)",
+		"xp_amount" : 4271
+	},
+	{
+		"skill_name" : "smithing",
+		"name" : "Steel Bar",
+		"xp_amount" : 1330
+	},
+	{
+		"skill_name" : "smithing",
+		"name" : "Rune Platebody",
+		"xp_amount" : 28500
+	},
+	{
+		"skill_name" : "smithing",
+		"name" : "Rune Bar",
+		"xp_amount" : 3800
+	},
+	{
+		"skill_name" : "runecrafting",
+		"name" : "ZMI",
+		"xp_amount" : 2704
+	},
+	{
+		"skill_name" : "runecrafting",
+		"name" : "Blood",
+		"xp_amount" : 1596
+	},
+	{
+		"skill_name" : "runecrafting",
+		"name" : "Death",
+		"xp_amount" : 1520
+	},
+	{
+		"skill_name" : "construction",
+		"name" : "Mahogany Plank",
+		"xp_amount" : 10640
+	},
+	{
+		"skill_name" : "construction",
+		"name" : "Teak Plank",
+		"xp_amount" : 6840
+	},
+	{
+		"skill_name" : "agility",
+		"name" : "Gnome Course",
+		"xp_amount" : 6574
+	},
+	{
+		"skill_name" : "agility",
+		"name" : "Wilderness Course",
+		"xp_amount" : 42142
+	},
+	{
+		"skill_name" : "agility",
+		"name" : "Barbarian Advanced Course",
+		"xp_amount" : 57282
+	},
+	{
+		"skill_name" : "agility",
+		"name" : "Barbarian Course",
+		"xp_amount" : 13223
+	},
+	{
+		"skill_name" : "agility",
+		"name" : "Gnome Advanced Course",
+		"xp_amount" : 55100
+	},
+	{
+		"skill_name" : "prayer",
+		"name" : "Ourg Bones (Ecto and morytania legs)",
+		"xp_amount" : 46816
+	},
+	{
+		"skill_name" : "prayer",
+		"name" : "Frost Dragon Bury(Prayer Cape)",
+		"xp_amount" : 27360
+	},
+	{
+		"skill_name" : "prayer",
+		"name" : "Infernal Ashes(Gilded altar)",
+		"xp_amount" : 16625
+	},
+	{
+		"skill_name" : "prayer",
+		"name" : "Frost dragon Bones (Ecto and morytania legs)",
+		"xp_amount" : 60192
+	},
+	{
+		"skill_name" : "prayer",
+		"name" : "Dagannoth Bones(Gilded altar)",
+		"xp_amount" : 33212
+	},
+	{
+		"skill_name" : "prayer",
+		"name" : "Dragon Bones(Gilded altar)",
+		"xp_amount" : 19152
+	},
+	{
+		"skill_name" : "prayer",
+		"name" : "Dagannoth Bones (Ecto and morytania legs)",
+		"xp_amount" : 41800
+	},
+	{
+		"skill_name" : "prayer",
+		"name" : "Frost Dragon Bones(Gilded altar)",
+		"xp_amount" : 47880
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Rune Arrow (w\/ Headless Arrow XP)",
+		"xp_amount" : 1125
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Broad Arrow",
+		"xp_amount" : 760
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Dragon Arrow (w\/ Headless Arrow XP)",
+		"xp_amount" : 1314
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Yew Longbow (u)",
+		"xp_amount" : 5700
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Dragon Arrow",
+		"xp_amount" : 1238
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Dragonstone Bolt",
+		"xp_amount" : 623
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Rune Arrow",
+		"xp_amount" : 1049
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Broad Arrow (w\/ Headless Arrow XP)",
+		"xp_amount" : 836
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Sagaie",
+		"xp_amount" : 3040
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Magic Longbow (u)",
+		"xp_amount" : 6954
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Diamond Bolt",
+		"xp_amount" : 532
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "Onyx Bolt",
+		"xp_amount" : 714
+	},
+	{
+		"skill_name" : "woodcutting",
+		"name" : "Teak",
+		"xp_amount" : 4660
+	},
+	{
+		"skill_name" : "woodcutting",
+		"name" : "Yew",
+		"xp_amount" : 13300
+	},
+	{
+		"skill_name" : "woodcutting",
+		"name" : "Magic",
+		"xp_amount" : 19000
+	},
+	{
+		"skill_name" : "woodcutting",
+		"name" : "Mahogany",
+		"xp_amount" : 9500
+	},
+	{
+		"skill_name" : "woodcutting",
+		"name" : "Maple",
+		"xp_amount" : 7600
+	},
+	{
+		"skill_name" : "woodcutting",
+		"name" : "Willow",
+		"xp_amount" : 5130
+	},
+	{
+		"skill_name" : "woodcutting",
+		"name" : "Jadinko Root",
+		"xp_amount" : 3070
+	},
+	{
+		"skill_name" : "woodcutting",
+		"name" : "Ivy",
+		"xp_amount" : 25270
+	},
+	{
+		"skill_name" : "thieving",
+		"name" : "Bakers Stall",
+		"xp_amount" : 608
+	},
+	{
+		"skill_name" : "thieving",
+		"name" : "Fish Stall",
+		"xp_amount" : 3192
+	},
+	{
+		"skill_name" : "thieving",
+		"name" : "Silk Stall",
+		"xp_amount" : 1824
+	},
+	{
+		"skill_name" : "thieving",
+		"name" : "Fur Stall",
+		"xp_amount" : 2736
+	},
+	{
+		"skill_name" : "thieving",
+		"name" : "Master Farmer",
+		"xp_amount" : 653
+	},
+	{
+		"skill_name" : "thieving",
+		"name" : "Silver Stall",
+		"xp_amount" : 4104
+	},
+	{
+		"skill_name" : "thieving",
+		"name" : "Tea Stall",
+		"xp_amount" : 1216
+	},
+	{
+		"skill_name" : "thieving",
+		"name" : "Gem Stall",
+		"xp_amount" : 7980
+	},
+	{
+		"skill_name" : "thieving",
+		"name" : "Spice Stall",
+		"xp_amount" : 6156
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "Magic (Gloves + Ring)",
+		"xp_amount" : 30164
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "Teak",
+		"xp_amount" : 9120
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "Yew",
+		"xp_amount" : 19152
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "Mahogany",
+		"xp_amount" : 13680
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "Yew (Gloves + Ring)",
+		"xp_amount" : 20109
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "Magic",
+		"xp_amount" : 28728
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "Curly root",
+		"xp_amount" : 28782
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "Maple",
+		"xp_amount" : 11932
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "Willow",
+		"xp_amount" : 8550
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "Test",
+		"xp_amount" : 5000
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "Curly root (Gloves + Ring)",
+		"xp_amount" : 30221
+	},
+	{
+		"skill_name" : "mining",
+		"name" : "Gem Rocks",
+		"xp_amount" : 4940
+	},
+	{
+		"skill_name" : "mining",
+		"name" : "Iron Ore",
+		"xp_amount" : 2660
+	},
+	{
+		"skill_name" : "mining",
+		"name" : "Red Sandstone",
+		"xp_amount" : 5320
+	},
+	{
+		"skill_name" : "mining",
+		"name" : "Gold Ore",
+		"xp_amount" : 4560
+	},
+	{
+		"skill_name" : "mining",
+		"name" : "Runite Ore",
+		"xp_amount" : 9500
+	},
+	{
+		"skill_name" : "mining",
+		"name" : "Gem Rocks (Karamja Gloves)",
+		"xp_amount" : 9880
+	},
+	{
+		"skill_name" : "mining",
+		"name" : "Coal",
+		"xp_amount" : 3800
+	},
+	{
+		"skill_name" : "mining",
+		"name" : "Adamantite Ore",
+		"xp_amount" : 7220
+	},
+	{
+		"skill_name" : "mining",
+		"name" : "Mithril Ore",
+		"xp_amount" : 6080
+	},
+	{
+		"skill_name" : "cooking",
+		"name" : "Monkfish",
+		"xp_amount" : 11400
+	},
+	{
+		"skill_name" : "cooking",
+		"name" : "Rocktail",
+		"xp_amount" : 17100
+	},
+	{
+		"skill_name" : "cooking",
+		"name" : "Shark",
+		"xp_amount" : 15960
+	},
+	{
+		"skill_name" : "cooking",
+		"name" : "Cavefish",
+		"xp_amount" : 16264
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Royal D'Hide",
+		"xp_amount" : 7144
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Dragonstone",
+		"xp_amount" : 10450
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Red D'Hide",
+		"xp_amount" : 5928
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Black D'Hide",
+		"xp_amount" : 6536
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Diamond",
+		"xp_amount" : 8170
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Blue D'Hide",
+		"xp_amount" : 5320
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Sapphire",
+		"xp_amount" : 3800
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Glassblown Flask",
+		"xp_amount" : 7600
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Green D'Hide",
+		"xp_amount" : 4712
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Onyx",
+		"xp_amount" : 12730
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Emerald",
+		"xp_amount" : 5092
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "Ruby",
+		"xp_amount" : 6460
+	},
+	{
+		"skill_name" : "herblore",
+		"name" : "Prayer Renewal",
+		"xp_amount" : 14440
+	},
+	{
+		"skill_name" : "herblore",
+		"name" : "Extreme Strength",
+		"xp_amount" : 17480
+	},
+	{
+		"skill_name" : "herblore",
+		"name" : "Extreme Defence",
+		"xp_amount" : 18240
+	},
+	{
+		"skill_name" : "herblore",
+		"name" : "Extreme Magic",
+		"xp_amount" : 19000
+	},
+	{
+		"skill_name" : "herblore",
+		"name" : "Extreme Attack",
+		"xp_amount" : 16720
+	},
+	{
+		"skill_name" : "herblore",
+		"name" : "Extreme Ranging",
+		"xp_amount" : 19760
+	},
+	{
+		"skill_name" : "herblore",
+		"name" : "Overload w\/ extremes",
+		"xp_amount" : 167200
+	},
+	{
+		"skill_name" : "herblore",
+		"name" : "Overload",
+		"xp_amount" : 76000
+	},
+	{
+		"skill_name" : "summoning",
+		"name" : "Iron Titan",
+		"xp_amount" : 31737
+	},
+	{
+		"skill_name" : "summoning",
+		"name" : "Geyser Titan",
+		"xp_amount" : 59523
+	},
+	{
+		"skill_name" : "summoning",
+		"name" : "Lava Titan",
+		"xp_amount" : 55510
+	},
+	{
+		"skill_name" : "summoning",
+		"name" : "Pack Yack",
+		"xp_amount" : 32102
+	},
+	{
+		"skill_name" : "summoning",
+		"name" : "Steel Titan",
+		"xp_amount" : 33075
+	},
+	{
+		"skill_name" : "summoning",
+		"name" : "Fire Titan",
+		"xp_amount" : 52835
+	},
+	{
+		"skill_name" : "summoning",
+		"name" : "Rune Minotaur",
+		"xp_amount" : 57516
+	},
+	{
+		"skill_name" : "farming",
+		"name" : "Papaya Seed",
+		"xp_amount" : 472598
+	},
+	{
+		"skill_name" : "farming",
+		"name" : "Fellstalk",
+		"xp_amount" : 23985
+	},
+	{
+		"skill_name" : "farming",
+		"name" : "Torstol",
+		"xp_amount" : 17062
+	},
+	{
+		"skill_name" : "farming",
+		"name" : "Yew Seed",
+		"xp_amount" : 543468
+	},
+	{
+		"skill_name" : "farming",
+		"name" : "Magic Seed",
+		"xp_amount" : 1057448
+	},
+	{
+		"skill_name" : "farming",
+		"name" : "Lantadyme",
+		"xp_amount" : 11514
+	},
+	{
+		"skill_name" : "farming",
+		"name" : "Palm Seed",
+		"xp_amount" : 779798
+	},
+	{
+		"skill_name" : "hunter",
+		"name" : "Black Warlock (Barehanded)",
+		"xp_amount" : 49000
+	},
+	{
+		"skill_name" : "agility",
+		"name" : "Black Warlock (Barehanded)",
+		"xp_amount" : 9500
+	},
+	{
+		"skill_name" : "hunter",
+		"name" : "Pawya",
+		"xp_amount" : 30400
+	},
+	{
+		"skill_name" : "hunter",
+		"name" : "Draconic Jadinko",
+		"xp_amount" : 42104
+	},
+	{
+		"skill_name" : "hunter",
+		"name" : "Regular Jadinko",
+		"xp_amount" : 15200
+	},
+	{
+		"skill_name" : "attack",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "defence",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "strength",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "constitution",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "ranged",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "prayer",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "magic",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "cooking",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "woodcutting",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "fletching",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "fishing",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "firemaking",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "crafting",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "smithing",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "mining",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "herblore",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "agility",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "thieving",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "slayer",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "farming",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "runecrafting",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "hunter",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "construction",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "summoning",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	},
+	{
+		"skill_name" : "dungeoneering",
+		"name" : "XP Lamp",
+		"xp_amount" : 326876
+	}
+]
